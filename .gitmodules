@@ -1,0 +1,6 @@
+[submodule "quizler-front-end"]
+	path = quizler-front-end
+	url = https://github.com/zachale/quizler-front-end
+[submodule "quizler-back-end"]
+	path = quizler-back-end
+	url = https://github.com/zachale/quizler-back-end
